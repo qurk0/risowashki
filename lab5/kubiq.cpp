@@ -219,7 +219,7 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH | GLUT_MULTISAMPLE);
     glutInitWindowSize(800, 600);
-    glutCreateWindow("EBAT ETO KUB NAHUY AHUET MOZHNO");
+    glutCreateWindow("kubiq =D");
 
     init();
     glutDisplayFunc(display);
